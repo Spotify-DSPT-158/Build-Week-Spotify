@@ -52,13 +52,13 @@ def create_app():
     app = Flask(__name__)
 
     # Makes the database persist on Heroku
-    app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///../../spot_wavez.db"
+    app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///../../spot_wavez.db" # JJ - unsure what to do with this
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     # Connects and populates the database with the given structure of class Songs
-    engine = create_engine("sqlite:///../../spot_wavez.db")
+    engine = create_engine("sqlite:///../../spot_wavez.db") # JJ - same as above
     Songs.metadata.create_all(engine)
 
-    file_name = ("app\dataset\most_popular_spotify_songs.csv")
+    file_name = ("most_popular_spotify_songs.csv")
     df = pd.read_csv(file_name)
     db = df.to_sql(con=engine, index_label='id',
                    name=Songs.__tablename__, if_exists='replace')
