@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91057c2a-5a82-4743-a528-a38d8f3ab68a" name="Default Changelist" comment="" />
+    <list default="true" id="91057c2a-5a82-4743-a528-a38d8f3ab68a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spotify-eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-eda.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="d73682216d7f232aad831f453c76bc6eaec8d6f8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ls5io8ijeY5Fp4Zy9LHjcwbwn3" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -34,7 +36,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DS-Unit-4-Sprint-1-NLP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spotify-eda.ipynb" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/spotify-eda.ipynb" />
   </component>
   <component name="RunManager">
     <configuration name="Build-Week-Spotify" type="PythonConfigurationType" factoryName="Python">
@@ -70,6 +73,7 @@
       <updated>1608373089470</updated>
       <workItem from="1608373090941" duration="1018000" />
       <workItem from="1608374122017" duration="3071000" />
+      <workItem from="1608447405332" duration="500000" />
     </task>
     <task id="LOCAL-00001" summary="Added dataset">
       <created>1608373252557</created>
@@ -98,6 +102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
