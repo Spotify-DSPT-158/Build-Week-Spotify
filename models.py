@@ -90,7 +90,7 @@ def create_app():
         return df
 
     '''
-        This will run the nearest neighbors model when we instantiate the app.
+         This will run the nearest neighbors model when we instantiate the app.
     '''
     processed_df = pre_process(df)
 
