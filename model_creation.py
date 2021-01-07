@@ -3,7 +3,7 @@ import pickle
 import pandas
 
 basedir = os.path.abspath(os.path.dirname(__file__))
-model_path = os.path.join(basedir, ##insert model)
+model_path = os.path.join(basedir, model.pkl)
 df_path = os.path.join(basedir, ## Pickle Path)
 
 with open(model_path, 'rb') as f:

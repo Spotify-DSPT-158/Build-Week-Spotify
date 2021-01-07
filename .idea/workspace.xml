@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a250d6c4-1e4b-4fe2-961a-d4fd1e40562f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model_creation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify_eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spotify_eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,8 @@
       <workItem from="1608606220867" duration="969000" />
       <workItem from="1609814780267" duration="59000" />
       <workItem from="1609814865185" duration="1027000" />
-      <workItem from="1609901491933" duration="4671000" />
+      <workItem from="1609901491933" duration="8918000" />
+      <workItem from="1609991584086" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="Corrected path names">
       <created>1608607099268</created>
@@ -113,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609908546509</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="began model_creation.py - still need to work on it.">
+      <created>1609910697294</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609910697294</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished base product to be renamed shortly...">
+      <created>1609987784734</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609987784734</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +164,8 @@
     <MESSAGE value="Added .env file with client id and secret" />
     <MESSAGE value="Added .env file with client id and secret (2nd attempt)" />
     <MESSAGE value="Got pickled model set" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got pickled model set" />
+    <MESSAGE value="began model_creation.py - still need to work on it." />
+    <MESSAGE value="Finished base product to be renamed shortly..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished base product to be renamed shortly..." />
   </component>
 </project>
